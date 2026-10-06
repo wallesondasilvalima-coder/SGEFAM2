@@ -108,3 +108,11 @@ O SGEFAM (Sistema de Gestão Financeira Familiar) tem como objetivo auxiliar fam
 
 \- RNF006 - O código deve ser organizado para facilitar sua manutenção.
 
+
+
+\## Observação
+
+
+
+Este projeto foi desenvolvido como parte de um Projeto Integrador, utilizando versionamento de código com Git e GitHub.
+
